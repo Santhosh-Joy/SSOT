@@ -8,5 +8,5 @@ feature6
 
 test
 
-
+----
 feature7
